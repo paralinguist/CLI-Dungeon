@@ -2,7 +2,8 @@
  A small procedurally generated text adventure style game to practice CLI use.
 
  Run from a POSIX compliant terminal with write access:
- source <(curl -s https://raw.githubusercontent.com/paralinguist/CLI-Dungeon/main/generate_dungeon.sh)
+ 
+ `source <(curl -s https://raw.githubusercontent.com/paralinguist/CLI-Dungeon/main/generate_dungeon.sh)`
 
  If you'd prefer not to execute some stranger's code remotely, directly from your terminal, download the generate_dungeon.sh file, make it executable and run.
 
